@@ -16,4 +16,4 @@
 - hosts: ubuntu_server
   become: true
   roles:
-    - "../../ubuntu_docker"
+    - ubuntu_docker
