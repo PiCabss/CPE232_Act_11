@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER torrecampo <qjpstorrecampo@tip.edu.ph>
+MAINTAINER cabanatan <qpjacabanatan@tip.edu.ph>
 
 ARG DEBIAN_FRONTEND=noninteractive
 
